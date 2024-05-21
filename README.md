@@ -3,7 +3,9 @@ Business-Case-Netflix--Data-Exploration-and-Visualization
 
 Netflix Data Exploration and Visualization 📊
 Netflix Logo
+
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png)
+
 
 Welcome to the Netflix Data Exploration and Visualization project! 🎉 In this repository, we delve into the world of Netflix to uncover valuable insights from their vast library of movies and TV shows. Whether you're a data enthusiast or a Netflix aficionado, this project has something for everyone.
 
