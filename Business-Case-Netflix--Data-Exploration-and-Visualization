@@ -1,0 +1,30 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "da4ae161",
+   "metadata": {
+    "papermill": {
+     "duration": 0.020633,
+     "end_time": "2023-06-09T12:10:48.143375",
+     "exception": false,
+     "start_time": "2023-06-09T12:10:48.122742",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "<a id=\"introduction\"></a>\n",
+    "# Introduction \n",
+    "\n",
+    "In this notebook, I'll give an Exploratory Data Analysis of the Netflix dataset from Kaggle. We will explore the data and hopefully bring some insights. \n",
+    "* We will unveil;\n",
+    "  * the distribution of genres, \n",
+    "  * the distribution of countries, \n",
+    "  * the distribution of ratings, and\n",
+    "  * the distribution of duration\n",
+    "* We will see yearly and monthly contents and how many are those.\n",
+    "* We will understand insides of contents by examining content description using WordCloud\n",
+    "\n",
+    "For visualizations I used; seaborn, pyplot, plotly, wordCloud and missingno. Some of the visuals interactive, and some of it static. But there's a lot improve. Feedbacks are welcome. \n",
+    "\n",
